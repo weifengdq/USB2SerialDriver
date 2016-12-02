@@ -1,0 +1,5 @@
+http://www.wch.cn/download/CH341SER_ZIP.html
+http://www.wch.cn/download/CH341SER_LINUX_ZIP.html
+http://www.wch.cn/download/CH341SER_MAC_ZIP.html
+http://www.wch.cn/download/CH341SER_ANDROID_ZIP.html
+
